@@ -1,0 +1,9 @@
+﻿  Midpoint1.cpp
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(53): error C2065: 'M_PI': undeclared identifier
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(54): error C2065: 'M_PI': undeclared identifier
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(55): error C2065: 'M_PI': undeclared identifier
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(56): error C2065: 'M_PI': undeclared identifier
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(63): error C2065: 'M_PI': undeclared identifier
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\midpoint1\midpoint1\midpoint1.cpp(64): error C2065: 'M_PI': undeclared identifier
